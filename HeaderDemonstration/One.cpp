@@ -8,7 +8,7 @@
 // use standard namespace
 using namespace std;
 
-// LevelUp function, this will be used in main inside the HeaderDemonstration.cpp file
+// LevelUp function, this will be used in main inside the HeaderDemonstration.cpp file 
 int levelUp(int x, int y) // take 2 numbers as parameters
 {
 	return x + y; // add the parameters together
